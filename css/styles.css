@@ -205,10 +205,6 @@ body{
 
 }
 
-.bottom-container{
-  background-color:#2B3467;
-  padding: 50px 0 20px;
-}
 
 
 
@@ -298,4 +294,9 @@ body{
   background-image: -o-linear-gradient(top, #4889cf, #1e1e24);
   background-image: linear-gradient(to bottom, #4889cf, #1e1e24);
   text-decoration: none;
+}
+
+.bottom-container{
+  background-color:#2B3467;
+  padding: 50px 0 20px;
 }
