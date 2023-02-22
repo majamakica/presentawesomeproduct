@@ -223,16 +223,6 @@ body{
 }
 
 
-.bottom-picture{
-  position: absolute;
-  display: -webkit-box;
-  margin-right: auto;
-  width: 20%;
-  height: 30%;
-  position:left;
-
-}
-
 .watch{
   height:250px;
   width: 250px;
@@ -274,6 +264,15 @@ body{
 }
 
 
+.bottom-picture{
+  position: absolute;
+  display: -webkit-box;
+  margin-right: auto;
+  width: 20%;
+  height: 30%;
+  position:left;
+
+}
 
 .btn {
   background: #5035b8;
