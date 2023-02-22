@@ -8,6 +8,10 @@ body{
 }
 
 
+.contact-me{
+  width: 500px;
+  margin: 20px auto;
+}
 
 
 #myCarousel .carousel-item .mask {
@@ -195,18 +199,6 @@ body{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 .middle-container{
   background-color: white;
   margin: 100px 0;
@@ -219,10 +211,6 @@ body{
 }
 
 
-.contact-message{
-  width: 500px;
-  margin: 20px auto;
-}
 
 .copyright{
   color: #EAF6F6;
@@ -238,7 +226,7 @@ body{
 .bottom-picture{
   position: absolute;
   display: -webkit-box;
-  margin-right: auto;
+  margin-left: auto;
   width: 20%;
   height: 30%;
 
