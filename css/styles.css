@@ -268,7 +268,12 @@ body{
   height: 30%;
 
 }
-
+.bottom-container{
+  background-color:#2B3467;
+  padding: 50px 0 20px;
+  position:center;
+	
+}
 .btn {
   background: #5035b8;
   background-image: -webkit-linear-gradient(top, #5035b8, #2c2630);
@@ -296,9 +301,4 @@ body{
   text-decoration: none;
 }
 
-.bottom-container{
-  background-color:#2B3467;
-  padding: 50px 0 20px;
-  position:right;
-	
-}
+
